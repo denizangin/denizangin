@@ -1,4 +1,4 @@
-![Masterhead](https://media.licdn.com/dms/image/v2/D4D16AQHwvoZZwO1diQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724444793257?e=1729728000&v=beta&t=HIh2oN-kRGp-G661cu8i183Wh8LJOKTY6aFRKHvpWRs)
+![Masterhead](https://www.canva.com/design/DAG0zGOdfkE/R_K-MuetGQsDPqRSkAYFNA/edit?utm_content=DAG0zGOdfkE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h1 align="center">Hi 👋, I'm Deniz</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
